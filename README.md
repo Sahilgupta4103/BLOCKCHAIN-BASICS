@@ -18,3 +18,14 @@ https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae
 
 https://smartereum.com/8970/how-do-bitcoin-nodes-verify-transactions/
 
+https://www.coindesk.com/information/what-is-the-difference-between-open-and-permissioned-blockchains/
+
+https://blockgeeks.com/guides/what-is-cryptocurrency/
+
+https://www.coindesk.com/markets/2017/12/27/2017-was-bitcoins-year-2018-will-be-ethereums/
+
+https://cointelegraph.com/blockchain-for-beginners/what-is-a-cryptocurrency-a-beginners-guide-to-digital-money#accept-as-payment-for-business
+
+https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/
+
+
