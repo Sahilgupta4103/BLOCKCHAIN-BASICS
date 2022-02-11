@@ -38,5 +38,11 @@ https://www.coindesk.com/information/how-ethereum-works/
 
 https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas
 
+https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/
+
+https://www.coindesk.com/markets/2017/04/10/vitalik-buterin-doubles-down-on-ethereum-incentive-strategy/
+
+https://ethereum.org/en/eth/
+
 
 
