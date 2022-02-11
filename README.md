@@ -28,4 +28,9 @@ https://cointelegraph.com/blockchain-for-beginners/what-is-a-cryptocurrency-a-be
 
 https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/
 
+https://geth.ethereum.org/docs/dapp/native-accounts
+
+https://ethereum.org/en/whitepaper/
+
+https://ethdocs.org/en/latest/account-management.html
 
