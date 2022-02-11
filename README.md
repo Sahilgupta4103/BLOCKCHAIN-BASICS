@@ -34,3 +34,9 @@ https://ethereum.org/en/whitepaper/
 
 https://ethdocs.org/en/latest/account-management.html
 
+https://www.coindesk.com/information/how-ethereum-works/
+
+https://ethereum.stackexchange.com/questions/3/what-is-meant-by-the-term-gas
+
+
+
