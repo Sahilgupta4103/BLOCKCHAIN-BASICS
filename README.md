@@ -64,3 +64,8 @@ https://infospectives.co.uk/blockchains-embedding-integrity/
 
 https://hbr.org/2017/03/how-safe-are-blockchains-it-depends
 
+https://bitcoin.stackexchange.com/questions/35448/is-it-chain-of-headers-rather-than-a-chain-of-blocks
+
+https://assets.kpmg/content/dam/kpmg/xx/pdf/2017/05/securing-the-chain.pdf
+
+https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/
