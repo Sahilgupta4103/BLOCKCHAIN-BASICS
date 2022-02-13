@@ -44,5 +44,21 @@ https://www.coindesk.com/markets/2017/04/10/vitalik-buterin-doubles-down-on-ethe
 
 https://ethereum.org/en/eth/
 
+https://qvault.io/cryptography/elliptic-curve-cryptography/
+
+https://www.youtube.com/watch?v=GSIDS_lvRv4https://www.youtube.com/watch?v=GSIDS_lvRv4
+
+https://www.techtarget.com/searchsecurity/definition/asymmetric-cryptography
+
+https://www.globalsign.com/en/ssl-information-center/what-is-public-key-cryptography
+
+https://blockgeeks.com/guides/what-is-hashing/
+
+https://www.youtube.com/watch?v=DMtFhACPnTY
+
+https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html
+
+https://andersbrownworth.com/blockchain/hash
+
 
 
