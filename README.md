@@ -60,5 +60,7 @@ https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html
 
 https://andersbrownworth.com/blockchain/hash
 
+https://infospectives.co.uk/blockchains-embedding-integrity/
 
+https://hbr.org/2017/03/how-safe-are-blockchains-it-depends
 
