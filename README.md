@@ -69,3 +69,22 @@ https://bitcoin.stackexchange.com/questions/35448/is-it-chain-of-headers-rather-
 https://assets.kpmg/content/dam/kpmg/xx/pdf/2017/05/securing-the-chain.pdf
 
 https://www.cryptocompare.com/coins/guides/what-is-a-block-header-in-bitcoin/
+
+https://arxiv.org/pdf/1706.01730.pdf
+
+https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare
+
+https://www.coindesk.com/markets/2017/03/04/a-short-guide-to-blockchain-consensus-protocols/
+
+https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2
+
+https://www.youtube.com/watch?v=hYip_Vuv8J0
+
+https://www.wired.com/story/how-the-blockchain-is-redefining-trust/
+
+https://www.trustnodes.com/2017/12/02/blockchain-forks-shown-hayek-right-wrong
+
+https://www.coindesk.com/markets/2017/09/18/split-on-forks-blockchain-leaders-learn-tough-lessons-from-bitcoin-scaling/
+
+https://www.youtube.com/watch?v=8uF7RVF2osk
+
